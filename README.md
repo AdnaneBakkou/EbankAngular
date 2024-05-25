@@ -1,4 +1,20 @@
 # DigitalBankFront
+![image](https://github.com/AdnaneBakkou/EbankAngular/assets/69118882/6b2e7a3f-b13b-4230-a22c-ca1bdc73a423)
+![image](https://github.com/AdnaneBakkou/EbankAngular/assets/69118882/91ffa99c-c2a1-4f8d-a998-b542dcfecd51)
+![image](https://github.com/AdnaneBakkou/EbankAngular/assets/69118882/2563671c-f847-4c5a-b6c5-eeeab14d43e7)
+![image](https://github.com/AdnaneBakkou/EbankAngular/assets/69118882/b9514b0e-c6d1-4848-80e0-8733df60e0ee)
+![image](https://github.com/AdnaneBakkou/EbankAngular/assets/69118882/98ddc0b1-22e3-4d96-a5cf-5639773e1dd3)
+
+
+
+
+
+
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
