@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'digitalBankFront'`, () => {
+  it(`should have as title 'web-digital-banking'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('digitalBankFront');
+    expect(app.title).toEqual('web-digital-banking');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, digitalBankFront');
+    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, web-digital-banking');
   });
 });
